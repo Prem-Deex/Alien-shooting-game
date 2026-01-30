@@ -13,7 +13,7 @@ score_val = 0
 text_x=10
 text_y=10
 
-#player
+#Player
 player_x = 380
 player_y = 480
 velocity = 0
@@ -110,3 +110,4 @@ while running:
     pygame.display.update()
 
 pygame.quit()
+
